@@ -1,0 +1,7 @@
+Hi 
+this is 
+an example of 
+comparing two
+text files.
+Can you guess the 
+differences?
