@@ -1,0 +1,7 @@
+Hi 
+this is 
+an example of 
+comparing tow
+text files.
+Can you guess the 
+difference?
